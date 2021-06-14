@@ -5,4 +5,9 @@
     <RootNamespace>Website_Redo_Activity</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="HTML\" />
+    <Folder Include="Images\" />
+  </ItemGroup>
+
 </Project>
