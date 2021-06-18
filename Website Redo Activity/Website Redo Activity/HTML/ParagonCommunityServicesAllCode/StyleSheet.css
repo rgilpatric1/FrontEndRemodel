@@ -11,11 +11,13 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width:100%;
 }
+
 .headerBackdrop {
-    background-color: #feaa14;
+   background-color: #feaa14;
    padding-top:1%;
-    padding-bottom:0%;
+   padding-bottom:0%;
 }
 .headerBorderSpacing{
     padding-bottom:0%;
@@ -35,6 +37,14 @@ a:active{
     background-color: white;
 }
 
-#imgLink{
-    padding:0%;
+#specialImage{
+    width:97.43%;
+}
+
+#imgLink {
+    padding: 0%;
+}
+
+#realImage{
+    width:45%;
 }
