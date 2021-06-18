@@ -14,10 +14,12 @@ img {
 }
 .headerBackdrop {
     background-color: #feaa14;
-    padding:1%;
+   padding-top:1%;
+    padding-bottom:0%;
 }
 .headerBorderSpacing{
-    padding:0.5%;
+    padding-bottom:0%;
+    padding-top:1%;
 }
 
 a {
