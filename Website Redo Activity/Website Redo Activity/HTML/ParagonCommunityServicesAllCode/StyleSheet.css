@@ -1,8 +1,16 @@
 ﻿body {
     background-color:dodgerblue;
     font-family:Georgia;
+    margin-left:10%;
+    margin-right:10%
 }
 
 h2 {
     font-weight:bold;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
