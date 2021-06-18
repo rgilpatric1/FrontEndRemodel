@@ -1,5 +1,5 @@
 ﻿body {
-    background-color: #85fffb;
+    background-color: white;
     font-family: Georgia;
 }
 
@@ -14,8 +14,24 @@ img {
 }
 .headerBackdrop {
     background-color: #feaa14;
-    padding:1%;
+   padding-top:1%;
+    padding-bottom:0%;
 }
 .headerBorderSpacing{
-    padding:0.5%;
+    padding-bottom:0%;
+    padding-top:1%;
 }
+
+a {
+    background-color: #feaa14;
+    color: blue;
+    padding: 5% 7.5%;
+}
+a:hover{
+    background-color: lightgrey;
+}
+
+a:active{
+    background-color: white;
+}
+
