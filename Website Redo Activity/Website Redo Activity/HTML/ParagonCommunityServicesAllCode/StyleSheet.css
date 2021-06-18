@@ -1,8 +1,6 @@
 ﻿body {
     background-color: #85fffb;
     font-family: Georgia;
-    margin-left: 10%;
-    margin-right: 10%
 }
 
 h2 {
@@ -13,4 +11,11 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.headerBackdrop {
+    background-color: #feaa14;
+    padding:1%;
+}
+.headerBorderSpacing{
+    padding:0.5%;
 }
