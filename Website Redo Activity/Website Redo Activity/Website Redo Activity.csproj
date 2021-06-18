@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="HTML\ParagonCommunityServicesAllCode\" />
     <Folder Include="Images\" />
   </ItemGroup>
 
