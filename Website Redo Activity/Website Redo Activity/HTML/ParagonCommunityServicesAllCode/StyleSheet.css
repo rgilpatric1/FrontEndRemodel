@@ -1,5 +1,5 @@
 ﻿body {
-    background-color: #85fffb;
+    background-color: white;
     font-family: Georgia;
 }
 
@@ -18,4 +18,17 @@ img {
 }
 .headerBorderSpacing{
     padding:0.5%;
+}
+
+a {
+    background-color: #feaa14;
+    color: blue;
+    padding: 5% 7.5%;
+}
+a:hover{
+    background-color: lightgrey;
+}
+
+a:active{
+    background-color: white;
 }
