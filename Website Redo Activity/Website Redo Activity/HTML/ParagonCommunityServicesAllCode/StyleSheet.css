@@ -16,4 +16,8 @@ img {
 }
 .headerBackdrop {
     background-color: #feaa14;
+    padding:1%;
+}
+.headerBorderSpacing{
+    padding:0.5%;
 }
